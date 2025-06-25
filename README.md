@@ -91,11 +91,13 @@ La ciencia respalda este enfoque:
 ## 📁 Estructura del proyecto
 
 ```bash
-DayX/
-├── assets/           # imágenes o gifs si se usan
-├── README.md
-├── extract_words_of_pdf_v3.py
-└── requirements.txt  # si aplica
+pdf-toanki-vocav/
+├── assets/           # imágenes o gifs usados
+├── README.md         # descripción e instrucciones
+├── extract_words_of_pdf_v1.py  # versión inicial del script
+├── extract_words_of_pdf_v2.py  # versión mejorada del script
+├── extract_words_of_pdf_v3.py  # versión final hasta ahora
+└── requirements.txt  # dependencias Python
  
 ```
 
