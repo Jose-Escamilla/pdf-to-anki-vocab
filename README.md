@@ -84,9 +84,8 @@ La ciencia respalda este enfoque:
     -   Traducción (en tu idioma)
     
 
+<p align="center"> <img src="assets/video-demo.gif" width="500" alt="🎬 Ver demo"> </p> 
 
-[![🎬 Ver demo](./assets/video-thumbnail.png)](./assets/video-demo.wmv)
-> Haz clic en la imagen para descargar o abrir el video (`.wmv`).
 ---
 ## 📁 Estructura del proyecto
 
