@@ -84,7 +84,7 @@ La ciencia respalda este enfoque:
     -   Traducción (en tu idioma)
     
 
-<p align="center"> <img src="assets/video-demo.gif" width="500" alt="🎬 Ver demo"> </p> 
+<p align="center"> <img src="assets/video-demo.gif" width="600" alt="🎬 Ver demo"> </p> 
 
 ---
 ## 📁 Estructura del proyecto
